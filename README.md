@@ -1,5 +1,6 @@
 #  Hallucination Hunter
-
+# Team Name: imperial batak
+# Team Members: Sourav Gupta(L), Vansh Garg, Dishika Vidhani, Yash Sharma
 **AI-Powered Fact-Checking & Attribution System for LLM-Generated Content**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
